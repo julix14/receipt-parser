@@ -1,0 +1,74 @@
+EDEKA Müller
+Marlene-Dietrich-Allee 15
+14482 Potsdam
+Tel. +4933174008000
+
+EUR
+Red Bull 0,25 1,19 EUR: 3 3,57B
+Pfand 0,25 EUR: 3 0,75*B
+Händlm.süß.Senf 1,79 A
+G&sG Baguette 0,69 A
+G&G Eier aus FLH 0,99 A
+G&G Mozzarella 0,89 A
+Babybel Mini 2,24 A
+Posten: 11 00... mu
+SUMME EUR 10,92
+EC-Cash EUR 10,92
+* * Kundenbeleg * *
+Datum: 11.12.2023
+Uhrzeit: 16:52:13 Uhr
+Beleg-Nr. 6596
+Trace-Nr. 064606
+Kartenzahlung
+girocard
+Nr. HH 545 7 0000
+VU-Nr. 8000377674
+Genehmigungs-Nr. 191179
+Terminal-ID 58018008
+Pos-Info 00 055 00
+AS-Zeit 11.12. 16:52 Uhr
+
+Weitere Daten 0000000000/E800////440302/
+/901290000230300000000000E80001
+
+Betrag EUR 10,92
+Zahlung erfolgt
+
+Bitte Beleg aufbewahren
+
+Mwst NETTO MwSt UMSATZ
+A 7% 6,17 0,43 6,60
+B 19% 3,63 0,69 4,32
+
+Kunde - 631199793
+
+Für Ihren Einkauf von 10,17 Euro auf
+rabattfähige Artikel hätten Sie
+5 DeutschlandCard Punkte erhalten!
+
+Melden Sie sich gleich hier im Markt
+oder unter www.deutschlandcard.de an.
+* Position nicht rabattberechtigt
+
+0011312111223103000818
+
+Datum Uhrzeit Pos Bed Bon
+11.12.23 16:51 103 112 0818
+
+Steuernummer: 046/251/06104
+
+TSE Transaktionsnummer: 22406
+TSE Seriennummer: O6EE4AFZ61FA2C54C06BES
+E286D4A207ED28B96F08216743EEB543CE933DIF
+zı
+Seriennr. Kasse: MIWU00110146003
+Prüfwert: IjptCBGulxaID4DCd8IB/oEy6Y+xnJ
+30eF5SjYpbuW9x7sbpdgALyR3lekNhvkgew7wihw
+O5JjfzJiNdIk£f£fpDYi6bT£fwhDit4£K/Z2pWRT2img
+A32LW/IbIcSLiHZ3ho
+Signaturzähler: 44915
+2023-12-11T15:51:33.00022023-12-11T15:52
+:32.0002
+Randy Müller e.K.
+QUITTUNG
+Vielen Dank für Ihren Einkauf!

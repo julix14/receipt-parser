@@ -1,0 +1,76 @@
+EDEKA Müller
+Marlene-Dietrich-Allee 15
+14482 Potsdam
+Tel. +4933174008000
+
+EUR
+Mühlen Veg.Salami 1,59 A
+EDK d.Menü Capre. 2,99 A
+G&G Dressing Amer. 0,99 A
+Tomaten 2,99 A
+G&G Weiz.Brötchen 1,29 A
+Harry VitalsFit 1,39 A
+G&G Gouda 2,79 A
+Leergut Einweg allg. -0,25*B
+Posten: 7
+SUMME EUR 13,78
+Mastercard EUR 13,78
+* * Kundenbeleg * *
+Datum: 16.12.2023
+Uhrzeit: 10:51:19 Uhr
+Beleg-Nr. 7331
+Trace-Nr. 066407
+Bezahlung
+Contactless
+DEBIT MASTERCARD
+Nr. EHRE 157 0000
+VU-Nr. 157309909
+Genehmigungs-Nr. 575333
+Terminal-ID 58018008
+Pos-Info 00 075 00
+AS-Zeit 16.12. 10:51 Uhr
+
+EMV-Daten 0000008001/////3F0002///212403
+0F/80
+
+Betrag EUR 13,78
+*** Autorisierung erfolgt ***
+
+Bitte Beleg aufbewahren
+
+Mwst NETTO MwSt UMSATZ
+A 7% 13,11 0,92 14,03
+B 19% -0,21 -0,04 -0,25
+
+Kunde - 631199793
+
+Für Ihren Einkauf von 14,03 Euro auf
+rabattfähige Artikel hätten Sie
+7 DeutschlandCard Punkte erhalten!
+
+Melden Sie sich gleich hier im Markt
+oder unter www.deutschlandcard.de an.
+* Position nicht rabattberechtigt
+
+0011312161223103001636
+
+Datum Uhrzeit Pos Bed Bon
+16.12.23 10:50 103 112 1636
+
+Steuernummer: 046/251/06104
+
+TSE Transaktionsnummer: 34217
+TSE Seriennummer: O6EE4AFZ61FA2C54C0O6BES
+E286D4A207ED28B96F08216743EEB543CE933DIF
+zı
+Seriennr. Kasse: MIWU00110146003
+Prüfwert: w7z256eT1sp5pTpvNLwzdgGu4GkzHn+
+3£JwtEqglpDjkHPIRRJjtksmHZ1AOrHHFXDSFnyGP5
+Z8hEhDmu6zALnaRtRt92TeTX9DxEOFlstJEwmüZw
+ybawWrYi6K7RoQIcs21
+Signaturzähler: 68569
+2023-12-16T709:50:18.00022023-12-16T09:51
+:31.0002
+Randy Müller e.K.
+QUITTUNG
+Vielen Dank für Ihren Einkauf!

@@ -1,0 +1,81 @@
+EDEKA Fil. 5514
+Marlene-Dietrich-Allee 15
+14482 Potsdam
+
+EUR
+WASSERMELONE 2,48 AW
+3,140 kg x 0,79 EUR/kg
+Harry Mehrkornbrot 1,89 A
+G&G Gouda leicht 1,99 A
+Rüg.Ve.Schink.Sp. 1,59 A
+Tant.Flammkuchent. 1,99 A
+EDK Basilikum 1,29 A
+Oetk.Creme fraiche 1,29 A
+Oetk.Creme Fraiche 1,29 A
+Gemüsezwiebeln 0,82 A
+0,330 kg x 2,49 EUR/kg
+EDK Tomaten 2,49 A
+Posten: 10 0 Fun
+SUMME EUR 17,12
+Mastercard EUR 17,12
+* * Kundenbeleg * *
+Datum: 17.08.2023
+Uhrzeit: 20:11:17 Uhr
+Beleg-Nr. 3691
+Trace-Nr. 033363
+Bezahlung
+Contactless
+DEBIT MASTERCARD
+Nr. HEHE 157 0000
+VU-Nr. 156791363
+Genehmigungs-Nr. 823138
+Terminal-iID 52049176
+Pos-Info 00 075 00
+AS-Zeit 17.08. 20:11 Uhr
+
+EMV-Daten 0000008001/////3F0002///693860
+5D/80
+
+Betrag EUR 17,12
+*** Autorisierung erfolgt ***
+
+Bitte Beleg aufbewahren
+
+MwSt NETTO MwSt UMSATZ
+A 7% 16,00 1,12 17,12
+
+Kunde - 631199793
+
+Für Ihren Einkauf von 17,12 Euro auf
+rabattfähige Artikel hätten Sie
+8 DeutschlandClard Punkte erhalten!
+
+Melden Sie sich gleich hier im Markt
+oder unter www.deutschlandcard.de an.
+
+0010455170823101005514
+
+Datum Uhrzeit Pos Bed Bon
+17.08.23 20:09 101 110 5514
+
+Steuernummer: 335/5821/5860
+
+TSE Transaktionsnummer: 215487
+TSE Seriennummer: MHYWEAYHKOZIZJ0CAQYFK4A
+EEACIDYgAEF8TaEO5XmBlesSed7e5gpeCcyfDOsDm
+SYQWGOAIGGV3YSL71LWEVNZgrCatXWEBVN+/EgwIRm
+HIXMTBASk/4vLxdPOrTSD/2JNVKYJVjJjyDSIJENS
+jazbFkB+Ut0ITe3r0h
+Seriennr. Kasse: MIWU00110146001
+Prüfwert: NJ+C10bDAc9GOn jWpezzwWlgNncWvüg
+R7PK£e2RT56GihQ2vc6dq10WJV414IMLIwBXzREv
+HAUCGCA+1l8iFdR2eAg+8/KWOBNBIALEXbzZTmgg6P
+Z18y+yOE7TimvgbwUL
+Signaturzähler: 431636
+2023-08-17T718:09:55.00022023-08-17T18:11
+:10.0002
+
+Vierte EDEKA Markt Berlin GmbH
+
+QUITTUNG
+Vielen Dank für Ihren Einkauf!
